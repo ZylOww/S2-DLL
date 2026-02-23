@@ -25,8 +25,8 @@ The **Session ID** is a randomized string that regenerates every time a Fast Res
 ## Integrity
 This DLL is closed-source. Please use the SHA-256 hash below to verify that your file has not been tampered with. If the file is flagged by your anti-virus, you may need to add an exclusion.
 
-* **SHA-256**: `24B038C01896392EB13226BDF965DAD36F1A03B5E5E6150B93AD5F7497D617E6`
-* **VirusTotal**: [View Scan Report](https://www.virustotal.com/gui/file/24b038c01896392eb13226bdf965dad36f1a03b5e5e6150b93ad5f7497d617e6)
+* **SHA-256**: `A6551B7D41E695367F35CEE24A5A60969C8CDDD5377E2B3FC9612F6193C9C339`
+* **VirusTotal**: [View Scan Report](https://www.virustotal.com/gui/file-analysis/NmY0YWRiNGZlMjBmNzE1MDE5NDA2YjdmNDUyZWRiYWE6MTc3MTgzMzM4NA==)
 
 ## Support & Contact
 If you run into any bugs, have suggestions for new features, or need help with setup, feel free to reach out.
