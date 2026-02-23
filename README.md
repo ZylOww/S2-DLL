@@ -27,3 +27,9 @@ This DLL is closed-source. Please use the SHA-256 hash below to verify that your
 
 * **SHA-256**: `24B038C01896392EB13226BDF965DAD36F1A03B5E5E6150B93AD5F7497D617E6`
 * **VirusTotal**: [View Scan Report](https://www.virustotal.com/gui/file/24b038c01896392eb13226bdf965dad36f1a03b5e5e6150b93ad5f7497d617e6)
+
+## Support & Contact
+If you run into any bugs, have suggestions for new features, or need help with setup, feel free to reach out.
+
+* **Discord**: itszylow
+* **GitHub**: Open an [Issue](https://github.com/ZylOww/S2-DLL/issues)
