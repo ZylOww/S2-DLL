@@ -6,7 +6,7 @@ This is a speedrun-oriented DLL for Call of Duty: WWII that aims to enhance the 
 
 ## Core Features
 * **Custom Keybinds**: Use the ImGui menu to rebind Fast Restart and Map Restart to any key.
-* **Soft Consumables**: Implements a toggle for consumables allowing you to "softly" have 999 (non-permanent) for any consumable you currently own. Note: Consumables with a quantity of 0 will not be granted the infinite quantity.
+* **Soft Consumables**: Implements a toggle for consumables allowing you to have 999 of any consumable in the game.
 * **Focus Detection**: Built-in checks ensure the game is the active window before triggering any hotkeys, preventing accidental restarts while tabbed out.
 * **ImGui Overlay**: Press **INSERT** to toggle the configuration menu.
 
