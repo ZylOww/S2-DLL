@@ -1,6 +1,6 @@
 # S2C WWII Speedrun DLL
 
-This is a speedrun-oriented DLL for Call of Duty: WWII that aims to enhance the speedrunning experience by implementing rebindable restart keys, soft consumables, and a session-based verification watermark.
+This is a speedrun-oriented DLL for Call of Duty: WWII that aims to enhance the speedrunning experience by implementing rebindable restart keys, infinite consumables, and a session-based verification watermark.
 
 ---
 
