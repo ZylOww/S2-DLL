@@ -33,3 +33,6 @@ If you run into any bugs, have suggestions for new features, or need help with s
 
 * **Discord**: itszylow
 * **GitHub**: Open an [Issue](https://github.com/ZylOww/S2-DLL/issues)
+
+## Contributors
+- **[DaddyDontStop](https://github.com/DaddyDontStop)** — Co-author
